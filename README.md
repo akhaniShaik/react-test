@@ -7,6 +7,6 @@ Steps to install JSON server:
 Step to run json server:
 1. json-server -watch db.json
 2. Note: db.json is a file name
-React app:
+3. React app:
 To run react app:
 npm start
